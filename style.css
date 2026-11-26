@@ -1,0 +1,31 @@
+body{
+background-color: #22284d
+}
+h1{
+color:#f0f1fc
+}
+h2{
+color:#f0f1fc
+}
+h3{
+color:#f0f1fc
+}
+
+iframe {
+  display: block;
+  width: 700px;
+  height: 600px;
+  border: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  align-items: center;
+}
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  width: 100%;
+  margin: 2rem 0;
+} 
+
